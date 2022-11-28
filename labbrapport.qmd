@@ -26,25 +26,19 @@ Den øvre fasen ble deretter avpipettert over i et rent falcon-rør med en steri
 
 Vi benyttet det ekstraherte DNA'et, og blandet det med master mix, primer mix i brønner og kjørte dette i PCR-maskin.
 
-For å kjøre elektroforese, måtte vi preparere en gel. 10X TBE buffer ble fortynnet med H2O til en 1X løsning. Deretter tilsatte vi 100 mL av den fortynnede løsningen i et konisk begerglass. 2 g argarose ble tilsatt for å danne en passende prosentvis gel (2%). Vi benyttet Sybr safe gel stain og tilsatte 10 µL i 100 mL løsning som vi varmet opp på en varmeplate inntil løsningen ble klar. Deretter ble denne avkjølt til ca 60°C før vi helte den over i en gel form og plasserte kammen på riktig sted. Gelen polymeriserte i løpet av en time og vi fjernet deretter kammen. Gelen ble plassert i elektroforese-unit'en og vi helte 1X TBE i elektroforesebeholderen så det dekket alle brønnene. Vi blandet prøvene med 4µL loading dye før vi sentrifugerte dem. Deretter plasserte vi ladder i brønn 1, prøver fra P i brønn 2 og 3, fra IJ i brønn 4 og 5,  fra EH i brønn 6 og 7 og H2O i brønn 8. Vi koblet på strøm med 150 V og kjørte elektroforesen i ca. 1 time til fargen var ca. 80% gjennom gelen.
+For å kjøre elektroforese, måtte vi preparere en gel. 10X TBE buffer ble fortynnet med H2O til en 1X løsning. Deretter tilsatte vi 100 mL av den fortynnede løsningen i et konisk begerglass. 2 g argarose ble tilsatt for å danne en passende prosentvis gel (2%). Vi benyttet Sybr safe gel stain og tilsatte 10 µL i 100 mL løsning som vi varmet opp på en varmeplate inntil løsningen ble klar. Deretter ble denne avkjølt til ca 60°C før vi helte den over i en gel form og plasserte kammen på riktig sted. Gelen polymeriserte i løpet av en time og vi fjernet deretter kammen. Gelen ble plassert i elektroforese-unit'en og vi helte 1X TBE i elektroforesebeholderen så det dekket alle brønnene. Vi blandet prøvene med 4µL loading dye før vi sentrifugerte dem. Deretter plasserte vi ladder i brønn 1, prøver fra P i brønn 2 og 3, fra IJ i brønn 4 og 5, fra EH i brønn 6 og 7 og H2O i brønn 8. Vi koblet på strøm med 150 V og kjørte elektroforesen i ca. 1 time til fargen var ca. 80% gjennom gelen.
 
 I G:Box kunne vi visualisere gelen ved bruk av UV lys og Sybr green - innstilling.
 
 ## **Resultater**
 
-Konsentrasjonen av DNA mellom 200-500 ng/µl er forventet. Vi fant hhv P; 256 ng/µl, IJ; 155ng/µl, EÅ; NA, EH; 267 ng/µl.
+PCR produktet ble analysert med elektroforese og G:Box som viste bånd på basepar 413 og 318 (Figur 1). Dette tilsvarer henholdsvis R-allelen og X-allelen av genet ACTN3. Alle våre testpersoner har kombinasjonen RX.
 
-(Vi måtte da fortynne løsningen for å få lik konsentrasjon på 100 ng/µl.)
-
-Alle testpersonene produserte bånd på 413(R) og 318(X) bp
-
-![**Figur 1**: ACTN3 R577X polymorfisme, bånd på 413bp (R) og 318 (X) etter gelelektroforese (2% agarose).](images/DNA_ACTN3-01.jpg){fig-align="left" width="700"}
+![**Figur 1**: ACTN3 R577X polymorfisme, bånd på 413bp (R) og 318 (X) etter gelelektroforese (2% agarose). Brønn 1 = ladder, brønn 2 og 3 = P, brønn 4 og 5 = IJ, brønn 6 og 7 = EH, brønn 8 = H~2~O (ikke avbildet).](images/DNA_ACTN3-01.jpg){fig-align="left" width="700"}
 
 ## **Diskusjon**
 
-Av våre fire testpersoner, fikk tre et resultat. Alle disse er RX.
-
-Det betyr.....
+Resultatene etter denne testen vil kunne vise hva slags genotype testpersonene har av genet ACTN3. Dette genet er assosiert med prestasjon i idrett. R-allelene er assosiert med prestasjon i kraftidrett og X-allelene assosiert med prestasjon i utholdenhetsidretter [@yang2003]. Av våre fire testpersoner, fikk tre et resultat. Alle disse har kombinasjonen RX. I følge Pickering & Kelly [-@pickering2017] reduserer det å ha R-allelen risiko for skader. Personer med R-allelen har ofte mer muskelmasse og høyere antall type-II muskelfibre. Både RX og RR genotyper har en tendens til å ha økt muskelstyrke. Yang et al. [-@yang2003] skriver i sin studie at R- og X-allelen kan opprettholdes i populasjonen fordi begge har sine fordeler, avhengig av miljøforhold.
 
 Konsentrasjonen av DNA var litt lav for en av testpersonene. Dette kan skyldes at ikke all supernatant ble fjernet i den tidlige produksjonsfasen, eller at man ikke fikk med nok øvre fase før vi tilsatte etanol. I den ene prøven, hvor DNA konsentrasjonen ble for lav til videre undersøkelse, ble midtre fase forstyrret.
 
