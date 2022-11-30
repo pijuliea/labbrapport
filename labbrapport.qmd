@@ -34,7 +34,7 @@ I G:Box kunne vi visualisere gelen ved bruk av UV lys og Sybr green - innstillin
 
 PCR produktet ble analysert med elektroforese og G:Box som viste bånd på basepar 413 og 318 (Figur 1). Dette tilsvarer henholdsvis R-allelen og X-allelen av genet ACTN3. Alle våre testpersoner har kombinasjonen RX.
 
-![**Figur 1**: ACTN3 R577X polymorfisme, bånd på 413bp (R) og 318 (X) etter gelelektroforese (2% agarose). Brønn 1 = ladder, brønn 2 og 3 = P, brønn 4 og 5 = IJ, brønn 6 og 7 = EH, brønn 8 = H~2~O (ikke avbildet).](images/DNA_ACTN3-01.jpg){fig-align="left" width="700"}
+![**Figur 1**: ACTN3 R577X polymorfisme, bånd på 413bp (R) og 318 (X) etter gelelektroforese (2% agarose). Brønn 1 = ladder, brønn 2 og 3 = P, brønn 4 og 5 = IJ, brønn 6 og 7 = EH, brønn 8 = H~2~O.](images/DNA_ACTN3-01.jpg){alt="Figur 1: ACTN3 R577X polymorfisme, bånd på 413bp (R) og 318 (X) etter gelelektroforese (2% agarose). Brønn 1 = ladder, brønn 2 og 3 = P, brønn 4 og 5 = IJ, brønn 6 og 7 = EH, brønn 8 = H2O." fig-align="left" width="700"}
 
 ## **Diskusjon**
 
